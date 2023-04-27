@@ -1,0 +1,1754 @@
+{
+  "ucenik": [
+    {
+      "ime": "Tea Pavlović",
+      "sifra": "teapavlovic",
+      "odeljenje": "I/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Svet oko nas",
+        "Fizičko vaspitanje",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 1
+    },
+    {
+      "ime": "Nađa Vasić",
+      "odeljenje": "I/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Svet oko nas",
+        "Fizičko vaspitanje",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 2
+    },
+    {
+      "ime": "Anđela Nikolić",
+      "odeljenje": "I/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Svet oko nas",
+        "Fizičko vaspitanje",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 3
+    },
+    {
+      "ime": "Stefan Stefanović",
+      "odeljenje": "I/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Svet oko nas",
+        "Fizičko vaspitanje",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 4
+    },
+    {
+      "ime": "Bojana Radulović",
+      "odeljenje": "I/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Svet oko nas",
+        "Fizičko vaspitanje",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 5
+    },
+    {
+      "ime": "Milena Mihailović",
+      "odeljenje": "I/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Svet oko nas",
+        "Fizičko vaspitanje",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 6
+    },
+    {
+      "ime": "Aleksandra Čitaković",
+      "odeljenje": "II/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Fizičko vaspitanje",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Svet oko nas"
+      ],
+      "ocene": [
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 7
+    },
+    {
+      "ime": "Emilija Đurković",
+      "odeljenje": "II/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Fizičko vaspitanje",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Svet oko nas"
+      ],
+      "ocene": [
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 8
+    },
+    {
+      "ime": "Danica Nikolić",
+      "odeljenje": "II/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Fizičko vaspitanje",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Svet oko nas"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 9
+    },
+    {
+      "ime": "Lena Milovanović",
+      "odeljenje": "II/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Fizičko vaspitanje",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Svet oko nas"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 10
+    },
+    {
+      "ime": "Anđela Rajčetić",
+      "odeljenje": "II/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Fizičko vaspitanje",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Svet oko nas"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 11
+    },
+    {
+      "ime": "Elena Stevanović",
+      "odeljenje": "II/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Fizičko vaspitanje",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Svet oko nas"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 12
+    },
+    {
+      "ime": "Ana Simić",
+      "odeljenje": "III/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Priroda i društvo"
+      ],
+      "ocene": [
+        1,
+        4,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "id": 13
+    },
+    {
+      "ime": "Danilo Nedeljković",
+      "odeljenje": "III/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Priroda i društvo"
+      ],
+      "ocene": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "id": 14
+    },
+    {
+      "ime": "Veljko Kovandžić",
+      "odeljenje": "III/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Priroda i društvo"
+      ],
+      "ocene": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "id": 15
+    },
+    {
+      "ime": "Vojin Jakovljević",
+      "odeljenje": "III/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Priroda i društvo"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 16
+    },
+    {
+      "ime": "Filip Radovanović",
+      "odeljenje": "III/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Priroda i društvo"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 17
+    },
+    {
+      "ime": "Nina Petrović",
+      "odeljenje": "III/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Priroda i društvo"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 18
+    },
+    {
+      "ime": "Sanja Milovanović",
+      "odeljenje": "IV/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Priroda i društvo"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 19
+    },
+    {
+      "ime": "Emilija Milutinović",
+      "odeljenje": "IV/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Priroda i društvo"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 20
+    },
+    {
+      "ime": "Anđela Zarić",
+      "odeljenje": "IV/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Priroda i društvo"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 21
+    },
+    {
+      "ime": "Anastasija Gajić",
+      "odeljenje": "IV/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Priroda i društvo"
+      ],
+      "ocene": [
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 22
+    },
+    {
+      "ime": "Anastasija Pajković",
+      "odeljenje": "IV/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Priroda i društvo"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 23
+    },
+    {
+      "ime": "Tamara Kočić",
+      "odeljenje": "IV/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Priroda i društvo"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 24
+    },
+    {
+      "ime": "Nevena Tošić",
+      "odeljenje": "V/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 25
+    },
+    {
+      "ime": "Dušan Marinković",
+      "odeljenje": "V/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 26
+    },
+    {
+      "ime": "Danica Marinković",
+      "odeljenje": "V/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 27
+    },
+    {
+      "ime": "Teodora Marinković",
+      "odeljenje": "V/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 28
+    },
+    {
+      "ime": "Katarina Čitaković",
+      "odeljenje": "V/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 29
+    },
+    {
+      "ime": "Mina Radisavljević",
+      "odeljenje": "V/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 30
+    },
+    {
+      "ime": "Mila Radisavljević",
+      "odeljenje": "VI/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika"
+      ],
+      "ocene": [
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 31
+    },
+    {
+      "ime": "Marija Stojanović",
+      "odeljenje": "VI/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 32
+    },
+    {
+      "ime": "Dušan Dončić",
+      "odeljenje": "VI/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 33
+    },
+    {
+      "ime": "Marko Golubović",
+      "odeljenje": "VI/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 34
+    },
+    {
+      "ime": "Aleksa Zdravković",
+      "odeljenje": "VI/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 35
+    },
+    {
+      "ime": "Mihajlo Pretić",
+      "odeljenje": "VI/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 36
+    },
+    {
+      "ime": "Anđela Ljušić",
+      "odeljenje": "VII/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika",
+        "Hemija"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 37
+    },
+    {
+      "ime": "Aleksandra Nešić",
+      "odeljenje": "VII/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika",
+        "Hemija"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 38
+    },
+    {
+      "ime": "Aleksandra Radojević",
+      "odeljenje": "VII/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika",
+        "Hemija"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 39
+    },
+    {
+      "ime": "Mina Stefanović",
+      "odeljenje": "VII/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika",
+        "Hemija"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 40
+    },
+    {
+      "ime": "Stefana Bajčetić",
+      "odeljenje": "VII/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika",
+        "Hemija"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 41
+    },
+    {
+      "ime": "Katarina Milić",
+      "odeljenje": "VII/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika",
+        "Hemija"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 42
+    },
+    {
+      "ime": "Milica Čitaković",
+      "odeljenje": "VIII/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika",
+        "Hemija"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 43
+    },
+    {
+      "ime": "Tijana Savić",
+      "odeljenje": "VIII/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika",
+        "Hemija"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 44
+    },
+    {
+      "ime": "Emilija Katić",
+      "odeljenje": "VIII/1",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika",
+        "Hemija"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 45
+    },
+    {
+      "ime": "Nina Rakonjac",
+      "odeljenje": "VIII/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika",
+        "Hemija"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 46
+    },
+    {
+      "ime": "Kalina Milošević",
+      "odeljenje": "VIII/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika",
+        "Hemija"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0
+      ],
+      "id": 47
+    },
+    {
+      "ime": "Lazar Aranđelović",
+      "odeljenje": "VIII/2",
+      "predmet": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika",
+        "Hemija"
+      ],
+      "ocene": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 48
+    }
+  ],
+  "predmeti": [
+    {
+      "odeljenjeNaziv": "I/1",
+      "predmetNiz": [
+        "Srpski jezik",
+        "Matematika",
+        "Svet oko nas",
+        "Fizičko vaspitanje",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik"
+      ],
+      "id": 14
+    },
+    {
+      "odeljenjeNaziv": "I/2",
+      "predmetNiz": [
+        "Srpski jezik",
+        "Matematika",
+        "Svet oko nas",
+        "Fizičko vaspitanje",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik"
+      ],
+      "id": 15
+    },
+    {
+      "odeljenjeNaziv": "II/1",
+      "predmetNiz": [
+        "Srpski jezik",
+        "Matematika",
+        "Fizičko vaspitanje",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Svet oko nas"
+      ],
+      "id": 16
+    },
+    {
+      "odeljenjeNaziv": "II/2",
+      "predmetNiz": [
+        "Srpski jezik",
+        "Matematika",
+        "Fizičko vaspitanje",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Svet oko nas"
+      ],
+      "id": 17
+    },
+    {
+      "odeljenjeNaziv": "III/1",
+      "predmetNiz": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Priroda i društvo"
+      ],
+      "id": 18
+    },
+    {
+      "odeljenjeNaziv": "III/2",
+      "predmetNiz": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Priroda i društvo"
+      ],
+      "id": 19
+    },
+    {
+      "odeljenjeNaziv": "IV/1",
+      "predmetNiz": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Priroda i društvo"
+      ],
+      "id": 20
+    },
+    {
+      "odeljenjeNaziv": "IV/2",
+      "predmetNiz": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Priroda i društvo"
+      ],
+      "id": 21
+    },
+    {
+      "odeljenjeNaziv": "V/1",
+      "predmetNiz": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo"
+      ],
+      "id": 22
+    },
+    {
+      "odeljenjeNaziv": "V/2",
+      "predmetNiz": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo"
+      ],
+      "id": 23
+    },
+    {
+      "odeljenjeNaziv": "VI/1",
+      "predmetNiz": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika"
+      ],
+      "id": 24
+    },
+    {
+      "odeljenjeNaziv": "VI/2",
+      "predmetNiz": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika"
+      ],
+      "id": 25
+    },
+    {
+      "odeljenjeNaziv": "VII/1",
+      "predmetNiz": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika",
+        "Hemija"
+      ],
+      "id": 26
+    },
+    {
+      "odeljenjeNaziv": "VII/2",
+      "predmetNiz": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika",
+        "Hemija"
+      ],
+      "id": 27
+    },
+    {
+      "odeljenjeNaziv": "VIII/1",
+      "predmetNiz": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika",
+        "Hemija"
+      ],
+      "id": 28
+    },
+    {
+      "odeljenjeNaziv": "VIII/2",
+      "predmetNiz": [
+        "Srpski jezik",
+        "Matematika",
+        "Muzička kultura",
+        "Likovna kultura",
+        "Engleski jezik",
+        "Fizičko vaspitanje",
+        "Istorija",
+        "Geografija",
+        "Biologija",
+        "Tehnika i tehnologija",
+        "Informatika i računarstvo",
+        "Fizika",
+        "Hemija"
+      ],
+      "id": 29
+    }
+  ],
+  "sviPredmeti": [
+    "Srpski jezik",
+    "Matematika",
+    "Svet oko nas",
+    "Priroda i društvo",
+    "Fizičko vaspitanje",
+    "Muzička kultura",
+    "Likovna kultura",
+    "Engleski jezik",
+    "Istorija",
+    "Geografija",
+    "Biologija",
+    "Tehnika i tehnologija",
+    "Informatika i računarstvo",
+    "Fizika",
+    "Hemija"
+  ],
+  "nalozi": [
+    {
+      "korisnik": "Bojan Antic",
+      "sifra": "bojanantic",
+      "funkcija": [
+        {
+          "vrsta": "profesor",
+          "vrednost": [
+            {
+              "predmet": "Matematika",
+              "odeljenja": [
+                "III/1",
+                "II/1",
+                "I/1"
+              ]
+            },
+            {
+              "predmet": "Fizika",
+              "odeljenja": [
+                "VI/1",
+                "VI/2"
+              ]
+            }
+          ]
+        },
+        {
+          "vrsta": "razredni",
+          "vrednost": "III/1"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "korisnik": "Dejan Antic",
+      "sifra": "dejanantic",
+      "funkcija": [
+        {
+          "vrsta": "profesor",
+          "vrednost": [
+            {
+              "predmet": "Srpski jezik",
+              "odeljenja": [
+                "III/1",
+                "II/1",
+                "I/1"
+              ]
+            },
+            {
+              "predmet": "Istorija",
+              "odeljenja": [
+                "VI/1",
+                "VI/2"
+              ]
+            }
+          ]
+        },
+        {
+          "vrsta": "razredni",
+          "vrednost": "I/1"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "korisnik": "admin",
+      "sifra": "admin",
+      "funkcija": [
+        {
+          "vrsta": "direktor"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "korisnik": "Zoran Antic",
+      "sifra": "zoranantic",
+      "funkcija": [
+        {
+          "vrsta": "profesor",
+          "vrednost": [
+            {
+              "predmet": "Muzička kultura",
+              "odeljenja": [
+                "VII/1"
+              ]
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "korisnik": "Emir Hasan",
+      "sifra": "emirhasan",
+      "funkcija": [
+        {
+          "vrsta": "profesor",
+          "vrednost": [
+            {
+              "predmet": "Informatika i računarstvo",
+              "odeljenja": [
+                "VIII/1",
+                "VIII/2"
+              ]
+            },
+            {
+              "predmet": "Matematika",
+              "odeljenja": [
+                "I/1",
+                "I/2",
+                "II/1",
+                "II/2"
+              ]
+            }
+          ]
+        },
+        {
+          "vrsta": "razredni",
+          "vrednost": "VI/2"
+        }
+      ],
+      "id": 5
+    }
+  ]
+}
