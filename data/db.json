@@ -2,7 +2,7 @@
   "ucenik": [
     {
       "ime": "Tea Pavlović",
-      "sifra": "teapavlovic",
+      "sifra": "teapavlović",
       "odeljenje": "I/1",
       "predmet": [
         "Srpski jezik",
@@ -26,6 +26,7 @@
     },
     {
       "ime": "Nađa Vasić",
+      "sifra": "nađavasić",
       "odeljenje": "I/1",
       "predmet": [
         "Srpski jezik",
@@ -49,6 +50,7 @@
     },
     {
       "ime": "Anđela Nikolić",
+      "sifra": "anđelanikolić",
       "odeljenje": "I/1",
       "predmet": [
         "Srpski jezik",
@@ -72,6 +74,7 @@
     },
     {
       "ime": "Stefan Stefanović",
+      "sifra": "stefanstefanović",
       "odeljenje": "I/2",
       "predmet": [
         "Srpski jezik",
@@ -95,6 +98,7 @@
     },
     {
       "ime": "Bojana Radulović",
+      "sifra": "bojanaradulović",
       "odeljenje": "I/2",
       "predmet": [
         "Srpski jezik",
@@ -118,6 +122,7 @@
     },
     {
       "ime": "Milena Mihailović",
+      "sifra": "milenamihailović",
       "odeljenje": "I/2",
       "predmet": [
         "Srpski jezik",
@@ -141,6 +146,7 @@
     },
     {
       "ime": "Aleksandra Čitaković",
+      "sifra": "aleksandračitaković",
       "odeljenje": "II/1",
       "predmet": [
         "Srpski jezik",
@@ -164,6 +170,7 @@
     },
     {
       "ime": "Emilija Đurković",
+      "sifra": "emilijađurković",
       "odeljenje": "II/1",
       "predmet": [
         "Srpski jezik",
@@ -187,6 +194,7 @@
     },
     {
       "ime": "Danica Nikolić",
+      "sifra": "danicanikolić",
       "odeljenje": "II/1",
       "predmet": [
         "Srpski jezik",
@@ -210,6 +218,7 @@
     },
     {
       "ime": "Lena Milovanović",
+      "sifra": "lenamilovanović",
       "odeljenje": "II/2",
       "predmet": [
         "Srpski jezik",
@@ -233,6 +242,7 @@
     },
     {
       "ime": "Anđela Rajčetić",
+      "sifra": "anđelarajčetić",
       "odeljenje": "II/2",
       "predmet": [
         "Srpski jezik",
@@ -256,6 +266,7 @@
     },
     {
       "ime": "Elena Stevanović",
+      "sifra": "elenastevanović",
       "odeljenje": "II/2",
       "predmet": [
         "Srpski jezik",
@@ -279,6 +290,7 @@
     },
     {
       "ime": "Ana Simić",
+      "sifra": "anasimić",
       "odeljenje": "III/1",
       "predmet": [
         "Srpski jezik",
@@ -302,6 +314,7 @@
     },
     {
       "ime": "Danilo Nedeljković",
+      "sifra": "danilonedeljković",
       "odeljenje": "III/1",
       "predmet": [
         "Srpski jezik",
@@ -325,6 +338,7 @@
     },
     {
       "ime": "Veljko Kovandžić",
+      "sifra": "veljkokovandžić",
       "odeljenje": "III/1",
       "predmet": [
         "Srpski jezik",
@@ -348,6 +362,7 @@
     },
     {
       "ime": "Vojin Jakovljević",
+      "sifra": "vojinjakovljević",
       "odeljenje": "III/2",
       "predmet": [
         "Srpski jezik",
@@ -371,6 +386,7 @@
     },
     {
       "ime": "Filip Radovanović",
+      "sifra": "filipradovanović",
       "odeljenje": "III/2",
       "predmet": [
         "Srpski jezik",
@@ -394,6 +410,7 @@
     },
     {
       "ime": "Nina Petrović",
+      "sifra": "ninapetrović",
       "odeljenje": "III/2",
       "predmet": [
         "Srpski jezik",
@@ -417,6 +434,7 @@
     },
     {
       "ime": "Sanja Milovanović",
+      "sifra": "sanjamilovanović",
       "odeljenje": "IV/1",
       "predmet": [
         "Srpski jezik",
@@ -440,6 +458,7 @@
     },
     {
       "ime": "Emilija Milutinović",
+      "sifra": "emilijamilutinović",
       "odeljenje": "IV/1",
       "predmet": [
         "Srpski jezik",
@@ -463,6 +482,7 @@
     },
     {
       "ime": "Anđela Zarić",
+      "sifra": "anđelazarić",
       "odeljenje": "IV/1",
       "predmet": [
         "Srpski jezik",
@@ -486,6 +506,7 @@
     },
     {
       "ime": "Anastasija Gajić",
+      "sifra": "anastasijagajić",
       "odeljenje": "IV/2",
       "predmet": [
         "Srpski jezik",
@@ -509,6 +530,7 @@
     },
     {
       "ime": "Anastasija Pajković",
+      "sifra": "anastasijapajković",
       "odeljenje": "IV/2",
       "predmet": [
         "Srpski jezik",
@@ -532,6 +554,7 @@
     },
     {
       "ime": "Tamara Kočić",
+      "sifra": "tamarakočić",
       "odeljenje": "IV/2",
       "predmet": [
         "Srpski jezik",
@@ -555,6 +578,7 @@
     },
     {
       "ime": "Nevena Tošić",
+      "sifra": "nevenatošić",
       "odeljenje": "V/1",
       "predmet": [
         "Srpski jezik",
@@ -586,6 +610,7 @@
     },
     {
       "ime": "Dušan Marinković",
+      "sifra": "dušanmarinković",
       "odeljenje": "V/1",
       "predmet": [
         "Srpski jezik",
@@ -617,6 +642,7 @@
     },
     {
       "ime": "Danica Marinković",
+      "sifra": "danicamarinković",
       "odeljenje": "V/1",
       "predmet": [
         "Srpski jezik",
@@ -648,6 +674,7 @@
     },
     {
       "ime": "Teodora Marinković",
+      "sifra": "teodoramarinković",
       "odeljenje": "V/2",
       "predmet": [
         "Srpski jezik",
@@ -679,6 +706,7 @@
     },
     {
       "ime": "Katarina Čitaković",
+      "sifra": "katarinačitaković",
       "odeljenje": "V/2",
       "predmet": [
         "Srpski jezik",
@@ -710,6 +738,7 @@
     },
     {
       "ime": "Mina Radisavljević",
+      "sifra": "minaradisavljević",
       "odeljenje": "V/2",
       "predmet": [
         "Srpski jezik",
@@ -741,6 +770,7 @@
     },
     {
       "ime": "Mila Radisavljević",
+      "sifra": "milaradisavljević",
       "odeljenje": "VI/1",
       "predmet": [
         "Srpski jezik",
@@ -774,6 +804,7 @@
     },
     {
       "ime": "Marija Stojanović",
+      "sifra": "marijastojanović",
       "odeljenje": "VI/1",
       "predmet": [
         "Srpski jezik",
@@ -807,6 +838,7 @@
     },
     {
       "ime": "Dušan Dončić",
+      "sifra": "dušandončić",
       "odeljenje": "VI/1",
       "predmet": [
         "Srpski jezik",
@@ -840,6 +872,7 @@
     },
     {
       "ime": "Marko Golubović",
+      "sifra": "markogolubović",
       "odeljenje": "VI/2",
       "predmet": [
         "Srpski jezik",
@@ -873,6 +906,7 @@
     },
     {
       "ime": "Aleksa Zdravković",
+      "sifra": "aleksazdravković",
       "odeljenje": "VI/2",
       "predmet": [
         "Srpski jezik",
@@ -906,6 +940,7 @@
     },
     {
       "ime": "Mihajlo Pretić",
+      "sifra": "mihajlopretić",
       "odeljenje": "VI/2",
       "predmet": [
         "Srpski jezik",
@@ -939,6 +974,7 @@
     },
     {
       "ime": "Anđela Ljušić",
+      "sifra": "anđelaljušić",
       "odeljenje": "VII/1",
       "predmet": [
         "Srpski jezik",
@@ -974,6 +1010,7 @@
     },
     {
       "ime": "Aleksandra Nešić",
+      "sifra": "aleksandranešić",
       "odeljenje": "VII/1",
       "predmet": [
         "Srpski jezik",
@@ -1009,6 +1046,7 @@
     },
     {
       "ime": "Aleksandra Radojević",
+      "sifra": "aleksandraradojević",
       "odeljenje": "VII/1",
       "predmet": [
         "Srpski jezik",
@@ -1044,6 +1082,7 @@
     },
     {
       "ime": "Mina Stefanović",
+      "sifra": "minastefanović",
       "odeljenje": "VII/2",
       "predmet": [
         "Srpski jezik",
@@ -1079,6 +1118,7 @@
     },
     {
       "ime": "Stefana Bajčetić",
+      "sifra": "stefanabajčetić",
       "odeljenje": "VII/2",
       "predmet": [
         "Srpski jezik",
@@ -1114,6 +1154,7 @@
     },
     {
       "ime": "Katarina Milić",
+      "sifra": "katarinamilić",
       "odeljenje": "VII/2",
       "predmet": [
         "Srpski jezik",
@@ -1149,6 +1190,7 @@
     },
     {
       "ime": "Milica Čitaković",
+      "sifra": "milicačitaković",
       "odeljenje": "VIII/1",
       "predmet": [
         "Srpski jezik",
@@ -1184,6 +1226,7 @@
     },
     {
       "ime": "Tijana Savić",
+      "sifra": "tijanasavić",
       "odeljenje": "VIII/1",
       "predmet": [
         "Srpski jezik",
@@ -1219,6 +1262,7 @@
     },
     {
       "ime": "Emilija Katić",
+      "sifra": "emilijakatić",
       "odeljenje": "VIII/1",
       "predmet": [
         "Srpski jezik",
@@ -1254,6 +1298,7 @@
     },
     {
       "ime": "Nina Rakonjac",
+      "sifra": "ninarakonjac",
       "odeljenje": "VIII/2",
       "predmet": [
         "Srpski jezik",
@@ -1289,6 +1334,7 @@
     },
     {
       "ime": "Kalina Milošević",
+      "sifra": "kalinamilošević",
       "odeljenje": "VIII/2",
       "predmet": [
         "Srpski jezik",
@@ -1324,6 +1370,7 @@
     },
     {
       "ime": "Lazar Aranđelović",
+      "sifra": "lazararanđelović",
       "odeljenje": "VIII/2",
       "predmet": [
         "Srpski jezik",

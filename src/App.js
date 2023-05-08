@@ -25,6 +25,9 @@ function App() {
   const [razred, setRazred] = useState('')
   const [ucid, setUcId] = useState('')
 
+//  const [novaSifra, setNovaSifra] = useState('teapavlović')
+//  const [broj, setBroj] = useState(1)
+
   const {data: nalozi} = useFetch('http://localhost:8000/nalozi')   // uzima sve naloge u objekat nalozi
   const {data: ucitaniPredmeti} = useFetch('http://localhost:8000/sviPredmeti')
   const {data: ucenici} = useFetch('http://localhost:8000/ucenik')
@@ -61,6 +64,41 @@ function App() {
       }
   }
 
+/*  const napraviSifru = () => {
+
+    
+      let tempUcenik = ucenici[broj]
+    
+      let tempSifra = tempUcenik.ime.toLowerCase()
+      tempSifra = tempSifra.replace(/\s+/g, '')
+      setNovaSifra(tempSifra)
+  
+      let id = tempUcenik.id
+  
+      let sifra = novaSifra
+      let ime = tempUcenik.ime
+      let odeljenje = tempUcenik.odeljenje
+      let predmet = tempUcenik.predmet
+      let ocene = tempUcenik.ocene
+  
+  
+      const noviUcenik = {ime, sifra, odeljenje, predmet, ocene}
+  
+      fetch('http://localhost:8000/ucenik/' + id, {
+              method: 'PUT',
+              headers: {"Content-Type": "application/json"},
+              body: JSON.stringify(noviUcenik)
+          }).then(() => {
+              
+              //console.log(ocene)
+              //history.push('/')
+          })
+    
+    //let tempUcenik = ucenici[0]
+    
+
+  }*/
+
   if ((nalozi !== null) && (ucitaniPredmeti !== null) && (ucenici !== null))
 
   return (
@@ -85,6 +123,13 @@ function App() {
               onChange={(e) => setPass(e.target.value)}
               ></input>
               <button onClick={traziKorisnika}>Trazi</button>
+              {/*<button onClick={napraviSifru}>Sifra</button>
+              <input
+              type='number'
+              value={broj}
+              onChange={(e) => setBroj(e.target.value)}
+              ></input>
+              <p>{novaSifra}</p>*/}
               <p>{vrsta}</p>
             </div>
           </Route>
