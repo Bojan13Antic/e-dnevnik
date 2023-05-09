@@ -14,6 +14,7 @@ export default function Navbar({vrsta}) {
             <Link to='/createProfesor'>Dodaj profesora</Link>
             <Link to='/poOdeljenju'>Po odeljenju</Link>
             <Link to='/PoUceniku'>Po uceniku</Link>
+            <Link to='/SviProfesori'>Svi profesori</Link>
         </div>
     </nav>
     )

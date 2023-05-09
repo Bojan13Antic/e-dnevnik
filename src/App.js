@@ -11,6 +11,7 @@ import NotFound from './NotFound';
 import Home2 from './Home2'
 import SviUcenici from './SviUcenici';
 import useFetch from './useFetch'
+import SviProfesori from './SviProfesori';
 
 
 
@@ -156,6 +157,10 @@ function App() {
 
           <Route exact path="/poUceniku">
             <SviUcenici vrednost={razred} vrsta={nizDozvola} ucid={ucid}/>
+          </Route>
+
+          <Route exact path="/SviProfesori">
+            <SviProfesori/>
           </Route>
 
           <Route path="/ucenik/:id">

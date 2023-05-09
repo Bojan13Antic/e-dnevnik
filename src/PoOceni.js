@@ -10,10 +10,11 @@ export default function PoOceni({ime, odeljenje, id, i}) {
         
     let ocene = ucenik.ocene
     let predmet = ucenik.predmet
+    let sifra = ucenik.sifra
 
         ocene.splice(i, 1, novaOcena)
 
-    const ucenikUp = {ime, odeljenje, predmet, ocene}
+    const ucenikUp = {ime, sifra, odeljenje, predmet, ocene}
 
         fetch('http://localhost:8000/ucenik/' + id, {
             method: 'PUT',

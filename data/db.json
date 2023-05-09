@@ -162,7 +162,7 @@
         5,
         0,
         0,
-        0,
+        1,
         0,
         0
       ],
@@ -186,7 +186,7 @@
         4,
         0,
         0,
-        0,
+        1,
         0,
         0
       ],
@@ -210,7 +210,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         0
       ],
@@ -234,7 +234,7 @@
         0,
         0,
         0,
-        0,
+        5,
         0,
         0
       ],
@@ -258,7 +258,7 @@
         0,
         0,
         0,
-        0,
+        3,
         0,
         0
       ],
@@ -282,7 +282,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         0
       ],
@@ -1748,24 +1748,6 @@
       "id": 3
     },
     {
-      "korisnik": "Zoran Antic",
-      "sifra": "zoranantic",
-      "funkcija": [
-        {
-          "vrsta": "profesor",
-          "vrednost": [
-            {
-              "predmet": "Muzička kultura",
-              "odeljenja": [
-                "VII/1"
-              ]
-            }
-          ]
-        }
-      ],
-      "id": 4
-    },
-    {
       "korisnik": "Emir Hasan",
       "sifra": "emirhasan",
       "funkcija": [
@@ -1796,6 +1778,47 @@
         }
       ],
       "id": 5
+    },
+    {
+      "korisnik": "Zoran Antic",
+      "sifra": "zoranantic",
+      "funkcija": [
+        {
+          "vrsta": "profesor",
+          "vrednost": [
+            {
+              "predmet": "Muzička kultura",
+              "odeljenja": [
+                "VII/1"
+              ]
+            }
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "korisnik": "Slavica Antic",
+      "sifra": "slavicaantic",
+      "funkcija": [
+        {
+          "vrsta": "profesor",
+          "vrednost": [
+            {
+              "predmet": "Likovna kultura",
+              "odeljenja": [
+                "II/2",
+                "II/1"
+              ]
+            }
+          ]
+        },
+        {
+          "vrsta": "razredni",
+          "vrednost": "V/1"
+        }
+      ],
+      "id": 7
     }
   ]
 }
