@@ -1,79 +1,14 @@
-# Getting Started with Create React App
+E-DNEVNIK is an application for managing and modifying classes, professors, students and their grades in one typical elementary school in Serbia.
+This is a web application basically for schools, but it can be used in other "grade-like" organizations. It uses React and a basic JSON database.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
+In order to run the app you will need to connect the database file:
 ### npx json-server --watch data/db.json --port 8000
 
-### npm install react-router-dom@5
+After that all you need to do is log in with a profile and you can start exploring. Inside of the database that I have provided here, you can find all profiles to log in but I suggest you start exploring with an admin profile (name: admin, password: admin // very creative :) ), since it has a lot more options and permissions.
 
-### npm install react-table
+The app is fully customizable since all you have at the start of a new project is a plain database with the list of all possible subjects in a school. After that, with admin permission, you can add professors, students, classes, and the algorithm does the rest - the database is further modified directly through the app and the components are rendered accordingly (you can theoretically put any number of students, professors and classes).
 
-
-
+The basic functionalities after you set up the database (enter the student profiles, professors, classes etc.) is:
+-admin profile can see all the grades from all the students but not modify them, as well as add or delete professors, students and/or classes
+-professor profile can see and grade only the students on the subjects he is assigned on, or only see the grades from class he is ahead of
+-student profile can only see their own grades and not be able to modify them
